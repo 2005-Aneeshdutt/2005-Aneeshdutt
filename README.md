@@ -3,11 +3,12 @@
 
 ---
 
-## 📫 Contact
+A Computer Science Engineering student focused on building strong fundamentals in software development and problem-solving. Actively developing skills in programming, data structures, and core computer science concepts, with growing exposure to machine learning and data-driven systems. Has experience working on academic and personal projects, as well as contributing to technical student communities through event organization and workshops. Interested in applying technical skills in real-world environments and continuously improving through hands-on learning and collaboration.
 
-- **Email:** aneeshdutt67@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/aneesh-dutt-9724a119b/  
-- **GitHub:** https://github.com/2005-Aneeshdutt  
+- 📍 Based in India  
+- 📫 Reach me at **aneeshdutt67@gmail.com**  
+- 🔗 LinkedIn: https://www.linkedin.com/in/aneesh-dutt-9724a119b/  
+- 💻 GitHub: https://github.com/2005-Aneeshdutt  
 
 ---
 
@@ -82,5 +83,4 @@
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2005-Aneeshdutt&show_icons=true&theme=dark)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2005-Aneeshdutt&theme=dark)
