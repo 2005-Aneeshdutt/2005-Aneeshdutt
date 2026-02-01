@@ -79,8 +79,3 @@ A Computer Science Engineering student focused on building strong fundamentals i
 </p>
 
 ---
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2005-Aneeshdutt&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2005-Aneeshdutt&theme=dark)
