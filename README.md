@@ -30,7 +30,7 @@ I like taking an AI idea all the way to a working system: the gateway it runs be
 <details>
 <summary><b>More projects</b></summary>
 
-- [**KAIROS**](https://github.com/2005-Aneeshdutt/KAIROS): causal uplift modeling + Thompson-sampling bandit for marketing decisions (FastAPI, Next.js)
+- [**KAIROS**](https://github.com/2005-Aneeshdutt/KAIROS): causal uplift modeling + Thompson-sampling bandit for marketing decisions, built for the **Epsilon All India Hackathon** (FastAPI, Next.js)
 - [**ATLAS**](https://github.com/2005-Aneeshdutt/atlas): automated LLM red-teaming with an LLM judge and attack mutation (LangGraph, MCP, Streamlit)
 - [**Mnemo**](https://github.com/2005-Aneeshdutt/Mnemo-): tool-based persistent memory layer for LLM agents with hybrid retrieval and an eval benchmark
 - [**Kokoro**](https://github.com/2005-Aneeshdutt/kokoro): streaming voice agent with ~610 ms median latency and per-stage benchmarks
@@ -43,6 +43,7 @@ I like taking an AI idea all the way to a working system: the gateway it runs be
 
 - **Razorpay AI Buildathon 2026** (Track 03: AI Revenue Recovery): [VERITAS](https://github.com/2005-Aneeshdutt/veritas)
 - **Google DeepMind Bangalore Hackathon** (Real-Time Multimodal Interaction): [PRISM](https://github.com/2005-Aneeshdutt/PRISM)
+- **Epsilon All India Hackathon**: [KAIROS](https://github.com/2005-Aneeshdutt/KAIROS)
 
 ## 🛠️ Tech
 
