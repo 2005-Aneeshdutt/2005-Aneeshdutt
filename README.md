@@ -12,8 +12,7 @@
 I like taking an AI idea all the way to a working system: the gateway it runs behind, the agents that act on it, the model fine-tuned for it, and the benchmark that says whether any of it helped. Most of my projects ship with a reproducible eval harness and honest numbers, including the ones that didn't go my way.
 
 - 🔭 Working on **LLM infrastructure, multi-agent systems and model evaluation**
-- 🛡️ Also interested in **security**: anomaly detection, LLM red-teaming, applied cryptography
-- 📍 India · open to **SDE / ML engineering internships**
+
 
 ## 🚀 Featured Projects
 
