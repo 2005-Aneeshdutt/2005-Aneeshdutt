@@ -21,6 +21,7 @@ I like taking an AI idea all the way to a working system: the gateway it runs be
 |---|---|---|
 | [**Switchyard**](https://github.com/2005-Aneeshdutt/switchyard) | OpenAI-compatible LLM gateway: provider failover, per-key spend caps, caching, cost-aware routing, and self-distilled small models rolled out with automatic rollback | FastAPI · Postgres · Redis · llama.cpp · Docker |
 | [**VERITAS**](https://github.com/2005-Aneeshdutt/veritas) | Payment-recovery agent built for the **Razorpay AI Buildathon 2026**. The LLM proposes, a deterministic policy kernel decides, and a hash-chained ledger makes every result verifiable | Python · LLM agents · Razorpay API |
+| [**KAIROS**](https://github.com/2005-Aneeshdutt/KAIROS) | 🥈 **2nd of 600+ teams at the Epsilon All India Hackathon.** Causal marketing engine: uplift modeling finds the customers marketing actually persuades, and a Thompson-sampling bandit picks channel and timing | Python · FastAPI · Next.js |
 | [**Kosh**](https://github.com/2005-Aneeshdutt/kosh) | Four LangGraph agents that run revenue operations for Razorpay merchants: collections, settlement reconciliation, cashflow forecasting, anomaly detection | LangGraph · Claude · FastAPI · React |
 | [**structured-extract**](https://github.com/2005-Aneeshdutt/structured-extract) | Qwen2.5-1.5B LoRA fine-tuned to turn job postings into schema-valid JSON, quantized to a 1 GB GGUF, with a [live demo](https://huggingface.co/spaces/aneeshdutt/structured-extract-demo) | PyTorch · PEFT · Unsloth · Hugging Face |
 | [**PRISM**](https://github.com/2005-Aneeshdutt/PRISM) | Real-time multimodal assistant built at the **Google DeepMind Bangalore Hackathon**. Gemini watches a live camera; a policy engine decides what's worth saying | Gemini · Python · SQLite |
@@ -30,7 +31,6 @@ I like taking an AI idea all the way to a working system: the gateway it runs be
 <details>
 <summary><b>More projects</b></summary>
 
-- [**KAIROS**](https://github.com/2005-Aneeshdutt/KAIROS): causal uplift modeling + Thompson-sampling bandit for marketing decisions, built for the **Epsilon All India Hackathon** (FastAPI, Next.js)
 - [**ATLAS**](https://github.com/2005-Aneeshdutt/atlas): automated LLM red-teaming with an LLM judge and attack mutation (LangGraph, MCP, Streamlit)
 - [**Mnemo**](https://github.com/2005-Aneeshdutt/Mnemo-): tool-based persistent memory layer for LLM agents with hybrid retrieval and an eval benchmark
 - [**Kokoro**](https://github.com/2005-Aneeshdutt/kokoro): streaming voice agent with ~610 ms median latency and per-stage benchmarks
@@ -43,7 +43,7 @@ I like taking an AI idea all the way to a working system: the gateway it runs be
 
 - **Razorpay AI Buildathon 2026** (Track 03: AI Revenue Recovery): [VERITAS](https://github.com/2005-Aneeshdutt/veritas)
 - **Google DeepMind Bangalore Hackathon** (Real-Time Multimodal Interaction): [PRISM](https://github.com/2005-Aneeshdutt/PRISM)
-- **Epsilon All India Hackathon**: [KAIROS](https://github.com/2005-Aneeshdutt/KAIROS)
+- 🥈 **Epsilon All India Hackathon: 2nd place out of 600+ teams**: [KAIROS](https://github.com/2005-Aneeshdutt/KAIROS)
 
 ## 🛠️ Tech
 
