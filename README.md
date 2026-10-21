@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aneesh-dutt-9724a119b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:aneeshdutt67@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://huggingface.co/aneeshdutt"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
+ 
 </p>
 
 ---
